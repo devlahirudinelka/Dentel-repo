@@ -1,0 +1,35 @@
+.social-container {
+    
+    padding: 0 50px;
+  }
+  h4{
+    font-family:Courier
+  }
+
+  
+
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+
+  a.youtube {
+    color:gray;
+  }
+  
+  a.facebook {
+    color: gray;
+  }
+  
+  a.twitter {
+    color: gray;
+  }
+  
+  a.instagram {
+    color: gray;
+  }

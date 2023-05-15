@@ -1,0 +1,12 @@
+.welcomePage{
+    height: 1000px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb(175, 250, 255);
+    width: 1700px;
+    position: relative;
+    bottom: 270px;
+    background-size:cover;
+    margin: 5% 0% 0% 5%;
+    padding: 2% 0% 0% 2%;
+    z-index: -1;
+}

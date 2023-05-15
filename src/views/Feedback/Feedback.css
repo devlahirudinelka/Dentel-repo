@@ -1,0 +1,57 @@
+.feedbackBody{
+
+    margin: 4% 8% 0 10%;
+
+}
+.searchfeedback{
+    margin: 2.5% 10px ;
+
+  }
+
+.feedback-container{
+    border-radius: 10px;
+    background-color: rgb(202, 209, 209);
+    padding: 10px;
+    width: 600px;
+    height: 610px;
+    margin: 8% 8% 0 10%
+}
+
+.add-feedback{
+    margin: 2%;
+    height: 500px;
+}
+
+#patient_name{
+ position: relative;
+ left: 48px
+}
+
+#diagnosis{
+    position: relative;
+    left: 65px
+   }
+
+  #dentist_name{
+    position: relative;
+    left: 50px
+   }
+
+   #rating{
+    position: relative;
+    left: 84px
+   }
+
+   #feedback_description{
+    position: relative;
+    left: 20px
+   }
+
+   #subButton{
+    background-color: rgb(108, 8, 230);
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: 100;
+   } 

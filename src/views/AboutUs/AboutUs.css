@@ -1,0 +1,18 @@
+.AboutUs{
+    height: 1200px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb(175, 250, 255);
+    width: 1400px;
+    position: relative;
+    bottom: 290px;
+    background-size:cover;
+    margin: 5% 0% 0% 5%;
+    padding: 2% 0% 0% 2%;
+    z-index: -2;
+}
+
+.top-left {
+    position: relative;
+    bottom: 8px;
+    left: 3px;
+  }
